@@ -1,0 +1,18 @@
+
+# PDF Extraction
+docling>=1.0.0
+
+# Graph Database
+neo4j>=5.14.0
+
+# Google Gemini AI
+google-generativeai>=0.3.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Utilities
+numpy>=1.24.0
+
+# Gradio UI
+gradio>=4.0.0
